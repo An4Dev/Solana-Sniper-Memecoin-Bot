@@ -106,5 +106,5 @@ Contributions are welcome! Feel free to open issues and submit PRs.
 This repo includes only sniping part due to the security problem.
 If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
 
-- E-Mail: rusty.engineer.1210@gmail.com
-- Telegram: [@solrusty1210](https://t.me/solrusty1210)
+- E-Mail: traceyrun2@gmail.com
+- Telegram: [@David19922](https://t.me/@David19922)
